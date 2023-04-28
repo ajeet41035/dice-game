@@ -1,0 +1,19 @@
+
+.container-fluid .head{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 50px;
+    color: chocolate;
+}
+.dice{
+    text-align: center;
+    margin-top: 60px;
+}
+.dice .img1{
+    width: 120px;
+    height: 80px;
+}
+.dice .img2{
+    width: 120px;
+    height: 80px;
+}
